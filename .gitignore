@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Virtual env
+venv/
+.env
+# Data (large PDF is not committed; see data/README.md)
+data/*.pdf
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
